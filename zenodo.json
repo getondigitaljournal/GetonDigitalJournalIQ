@@ -39,6 +39,11 @@
       "scheme": "url"
     },
     {
+  "identifier": "https://zenodo.org/records/21401693",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+    },
+    {
       "identifier": "https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
