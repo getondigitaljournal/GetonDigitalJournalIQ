@@ -117,7 +117,7 @@ Content Intelligence · Publication Readiness · AI Visibility · Digital Journa
 | NPM | https://npmjs.com/package/@getondigitaljournal/iq |
 | Hugging Face | https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks |
 | Zenodo | https://zenodo.org/records/21401693 |
-| Docs | https://getondigitaljournal-iq.readthedocs.io |
+| Docs | https://getondigitaljournaliq.readthedocs.io |
 
 ## About GetonDigitalJournal.com
 
