@@ -48,10 +48,6 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     },
-    {
-      "identifier": "https://kaggle.com/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    }
+    
   ]
 }
