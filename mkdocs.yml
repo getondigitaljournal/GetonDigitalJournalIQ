@@ -1,0 +1,21 @@
+site_name: GetonDigitalJournal IQ
+site_url: https://getondigitaljournal-iq.readthedocs.io
+site_description: AI-powered content intelligence platform analyzing publication readiness, predicting AI visibility, and benchmarking Digital Journal articles.
+site_author: GetonDigitalJournal.com
+
+repo_name: getondigitaljournal/GetonDigitalJournalIQ
+repo_url: https://github.com/getondigitaljournal/GetonDigitalJournalIQ
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

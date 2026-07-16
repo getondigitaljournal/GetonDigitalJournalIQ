@@ -1,0 +1,52 @@
+{
+  "title": "GetonDigitalJournal IQ",
+  "description": "An AI-powered content intelligence platform that analyzes publication readiness, predicts AI visibility, and benchmarks successful Digital Journal articles to help improve content quality and discoverability. Built by GetonDigitalJournal.com.",
+  "creators": [
+    {
+      "name": "GetonDigitalJournal.com"
+    }
+  ],
+  "keywords": [
+    "content intelligence",
+    "publication readiness",
+    "AI visibility",
+    "Digital Journal",
+    "content quality",
+    "editorial standards",
+    "discoverability",
+    "AI citation",
+    "GetonDigitalJournal",
+    "content benchmark"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/getondigitaljournal/GetonDigitalJournalIQ",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getondigitaljournal.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@getondigitaljournal/iq",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

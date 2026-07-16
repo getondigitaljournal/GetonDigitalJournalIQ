@@ -1,0 +1,37 @@
+{
+  "name": "@getondigitaljournal/iq",
+  "version": "1.0.0",
+  "description": "AI-powered content intelligence platform analyzing publication readiness, predicting AI visibility, and benchmarking Digital Journal articles. Powered by GetonDigitalJournal.com",
+  "main": "index.js",
+  "bin": {
+    "getondigitaljournal-iq": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "content-intelligence",
+    "publication-readiness",
+    "ai-visibility",
+    "digital-journal",
+    "content-quality",
+    "editorial-standards",
+    "discoverability",
+    "ai-citation",
+    "getondigitaljournal",
+    "content-benchmark",
+    "press-release",
+    "ai-discovery"
+  ],
+  "author": "GetonDigitalJournal.com",
+  "license": "MIT",
+  "homepage": "https://getondigitaljournal.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getondigitaljournal/GetonDigitalJournalIQ"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

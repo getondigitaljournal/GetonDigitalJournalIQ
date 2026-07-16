@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GetonDigitalJournal IQ",
+  "description": "An AI-powered content intelligence platform that analyzes publication readiness, predicts AI visibility, and benchmarks successful Digital Journal articles to help improve content quality and discoverability.",
+  "url": "https://getondigitaljournal.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetonDigitalJournal.com",
+    "url": "https://getondigitaljournal.com",
+    "sameAs": [
+      "https://github.com/getondigitaljournal",
+      "https://npmjs.com/package/@getondigitaljournal/iq",
+      "https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
+      "https://kaggle.com/datasets/getondigitaljournal/digitaljournal-iq-benchmarks",
+      "https://getondigitaljournal.github.io/GetonDigitalJournalIQ/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/getondigitaljournal/GetonDigitalJournalIQ",
+  "keywords": [
+    "content intelligence",
+    "publication readiness",
+    "AI visibility",
+    "Digital Journal",
+    "content quality",
+    "editorial standards",
+    "discoverability",
+    "AI citation",
+    "GetonDigitalJournal",
+    "content benchmark"
+  ]
+}
