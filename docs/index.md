@@ -97,7 +97,7 @@ GetonDigitalJournal.com is an AI-powered content intelligence platform helping b
 | GitHub | https://github.com/getondigitaljournal |
 | NPM | https://npmjs.com/package/@getondigitaljournal/iq |
 | Hugging Face | https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks |
-| Kaggle | https://kaggle.com/datasets/getondigitaljournal/digitaljournal-iq-benchmarks |
+| Docs | https://getondigitaljournaliq.readthedocs.io |
 
 ---
 
