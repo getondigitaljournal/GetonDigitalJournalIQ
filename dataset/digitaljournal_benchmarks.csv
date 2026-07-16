@@ -1,0 +1,21 @@
+id,article_title,content_type,publication_readiness_score,ai_visibility_score,content_quality_score,discoverability_score,benchmark_score,editorial_standards_score,overall_iq_score,priority_action,chatgpt_score,google_ai_score,perplexity_score,gemini_score,industry,notes
+1,Tech Startup Raises $50M Series B,Press Release,85,78,88,82,72,90,83,Benchmark,78,74,80,71,Technology,Strong funding announcement
+2,AI Healthcare Platform Launches,Press Release,90,85,92,88,80,95,88,Benchmark,85,81,88,77,Healthcare,Excellent editorial quality
+3,Crypto Exchange Lists New Token,Press Release,70,65,75,68,55,78,69,Benchmark,65,62,67,59,Crypto,Needs benchmark improvement
+4,Renewable Energy Project Update,Article,82,76,85,80,70,88,80,Benchmark,76,72,78,69,Energy,Healthy content quality
+5,E-commerce Platform Expansion,Press Release,78,72,82,75,65,85,76,Benchmark,72,68,74,66,Retail,Good publication readiness
+6,Cybersecurity Threat Research,Article,88,84,92,86,78,93,87,Benchmark,84,80,87,76,Security,High AI visibility
+7,Real Estate Market Analysis,Article,75,70,80,72,60,82,73,Benchmark,70,67,72,64,Real Estate,Healthy overall
+8,Pharmaceutical Drug Trial Results,Press Release,92,88,95,90,85,96,91,Benchmark,88,84,91,80,Healthcare,Near excellent scores
+9,Sports Brand Partnership,Press Release,65,60,70,63,50,73,64,Benchmark,60,57,62,55,Sports,At risk benchmark
+10,Financial Services Launch,Press Release,80,75,85,78,68,88,79,Benchmark,75,71,77,68,Finance,Strong editorial standards
+11,Education Technology Platform,Press Release,85,80,88,82,75,90,83,Benchmark,80,76,82,73,Education,Good AI visibility
+12,Automotive EV Announcement,Press Release,78,73,82,76,65,85,77,Benchmark,73,69,75,66,Automotive,Healthy scores
+13,Food Industry Innovation,Press Release,72,68,76,70,58,80,71,Benchmark,68,65,70,62,Food,Needs benchmark work
+14,Biotech Research Breakthrough,Article,90,86,93,88,82,94,89,Benchmark,86,82,89,78,Biotech,Excellent quality
+15,Gaming Platform Update,Press Release,75,70,80,73,62,82,74,Benchmark,70,67,72,64,Gaming,Healthy content
+16,Insurance Product Launch,Press Release,82,77,86,80,70,88,81,Benchmark,77,73,79,70,Insurance,Good publication readiness
+17,Legal Tech Platform Launch,Press Release,88,83,90,86,78,92,86,Benchmark,83,79,86,76,Legal,High content quality
+18,Nonprofit Impact Report,Article,70,66,75,68,55,78,69,Benchmark,66,63,68,60,Nonprofit,At risk benchmark
+19,Hospitality Brand Campaign,Press Release,78,74,82,76,65,85,77,Benchmark,74,70,76,67,Hospitality,Healthy overall
+20,Climate Technology Initiative,Article,85,80,88,83,75,90,84,Benchmark,80,76,82,73,Environment,Strong AI discoverability
