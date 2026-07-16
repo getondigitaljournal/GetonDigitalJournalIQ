@@ -1,7 +1,7 @@
 # GetonDigitalJournal IQ 📰🤖
 
 [![npm](https://img.shields.io/npm/v/@getondigitaljournal/iq)](https://npmjs.com/package/@getondigitaljournal/iq)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21401693.svg)](https://doi.org/10.5281/zenodo.21401693)
 
 An AI-powered content intelligence platform that analyzes publication readiness, predicts AI visibility, and benchmarks successful Digital Journal articles to help improve content quality and discoverability. Built by [GetonDigitalJournal.com](https://getondigitaljournal.com).
 
@@ -117,7 +117,7 @@ Content Intelligence · Publication Readiness · AI Visibility · Digital Journa
 | NPM | https://npmjs.com/package/@getondigitaljournal/iq |
 | Hugging Face | https://huggingface.co/datasets/getondigitaljournal/digitaljournal-iq-benchmarks |
 | Kaggle | https://kaggle.com/datasets/getondigitaljournal/digitaljournal-iq-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21401693 |
 | Docs | https://getondigitaljournal-iq.readthedocs.io |
 
 ## About GetonDigitalJournal.com
